@@ -55,11 +55,33 @@ __bold__
 [neuefische][neuefische] ist toll
 
 
-Just a test
-
-[neuefische]: https://www.neuefische.de
-[google]: https://www.google.com
 
 ## Blockquote
 
 > I am a blockquote
+
+## Code
+This code is `inline`.
+
+```
+This is a code block
+```
+
+```md
+## H2
+
+**bold**
+```
+
+```html
+<h1>Headline 1</h1>
+```
+
+```shell
+cd path/to/some/folder
+```
+
+Just a test
+
+[neuefische]: https://www.neuefische.de
+[google]: https://www.google.com
