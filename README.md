@@ -39,5 +39,7 @@
 _italic_
 __bold__
 
+## Strike
 
-test description
+~strike~
+(Option + N)
