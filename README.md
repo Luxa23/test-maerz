@@ -29,6 +29,15 @@
 1. Item 3
    1. Item 3.i
    2. Item 3.ii
+
+## Bold & Italic
   
+*italic/cursive/emphasis*
+
+**bold/strong**
+
+_italic_
+__bold__
+
 
 test description
